@@ -1,1 +1,2 @@
-# k_mean_cluster
+# Кластеризация с помощью K-means и K-means++
+Проводим кластеризацию клиентов по трем признакам одновременно ("Age", "Annual Income", "Spending Score")
